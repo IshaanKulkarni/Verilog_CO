@@ -28,3 +28,19 @@ end
 endgenerate
 
 endmodule
+
+
+module nor18(j,g,h);
+input [31:0]g;
+input [31:0]h;
+output [31:0]j;
+
+genvar i;
+
+generate
+for(i=0;i<32;i=i+1) begin
+or a18(j[i],g[i],h[i]);
+end
+endgenerate
+
+endmodule

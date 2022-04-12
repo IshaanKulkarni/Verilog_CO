@@ -39,7 +39,7 @@ genvar i;
 
 generate
 for(i=0;i<32;i=i+1) begin
-or a18(j[i],g[i],h[i]);
+nor a18(j[i],g[i],h[i]);
 end
 endgenerate
 
