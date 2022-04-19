@@ -1,0 +1,450 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+<<<<<<< HEAD
+Z0 d/home/cloud/Desktop
+v_32bitPIPO
+Z1 !s110 1650386027
+!i10b 1
+!s100 a]hfIecODo@hXOEeKIzLI3
+IU;SPAnD_1WaZNN2DJkKRI3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1650385884
+8/home/cloud/Desktop/32bitPIPO.v
+F/home/cloud/Desktop/32bitPIPO.v
+=======
+Z0 d/home/cloud/Desktop/Lab_9-Verilog
+vaddSub
+Z1 !s110 1649780220
+!i10b 1
+!s100 4o__EEMCj^OIRaZo^K;V91
+ITKV3IkaKkC;BNMSmTkEmE2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1649778039
+8/home/cloud/Desktop/Lab_9-Verilog/addSub.v
+F/home/cloud/Desktop/Lab_9-Verilog/addSub.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+<<<<<<< HEAD
+Z4 !s108 1650386027.000000
+!s107 /home/cloud/Desktop/32bitPIPO.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/32bitPIPO.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@_32bit@p@i@p@o
+vD_FlipFlop
+Z7 !s110 1650384367
+!i10b 1
+!s100 2QeXQbHf95>j=ICz]Z7FA3
+IC_?H`kBcdKAQ@LPe@8i^`0
+R2
+R0
+w1650383296
+8/home/cloud/Desktop/dFlipFlop.v
+F/home/cloud/Desktop/dFlipFlop.v
+=======
+Z4 !s108 1649780220.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/addSub.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/addSub.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nadd@sub
+vALU
+Z7 !s110 1649784368
+!i10b 1
+!s100 QXKNjHUTc<d?kE_G`OZX@3
+IWS`<n3Lzl5Fk?k22:[Sz43
+R2
+R0
+w1649784349
+8/home/cloud/Desktop/Lab_9-Verilog/ALU.v
+F/home/cloud/Desktop/Lab_9-Verilog/ALU.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+Z8 !s108 1650384367.000000
+!s107 /home/cloud/Desktop/dFlipFlop.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/dFlipFlop.v|
+!i113 1
+R5
+R6
+n@d_@flip@flop
+vPIPO
+Z9 !s110 1650384538
+!i10b 1
+!s100 Ghhkm7UilXNmmX^ZK6ZDO2
+I]nZi8b_<7J]0^LMOcU_Xn0
+R2
+R0
+w1650384533
+8/home/cloud/Desktop/PIPO_reg.v
+F/home/cloud/Desktop/PIPO_reg.v
+=======
+Z8 !s108 1649784368.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/ALU.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALUTB
+R7
+!i10b 1
+!s100 FEE9M[ebL_4NSJ=2[R<KD1
+Im9>l]4ezmWH_5X;:EINn[1
+R2
+R0
+w1649784205
+8/home/cloud/Desktop/Lab_9-Verilog/ALUTB.v
+F/home/cloud/Desktop/Lab_9-Verilog/ALUTB.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+Z10 !s108 1650384538.000000
+!s107 /home/cloud/Desktop/PIPO_reg.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/PIPO_reg.v|
+!i113 1
+R5
+R6
+n@p@i@p@o
+vQ2
+!s110 1650386403
+!i10b 1
+!s100 ^Wo8GNQG85aAXEHKTUk6d2
+I?K=<N3]EajknD1IfgeNPR3
+R2
+R0
+w1650386401
+8/home/cloud/Desktop/Q2.v
+F/home/cloud/Desktop/Q2.v
+=======
+R8
+!s107 /home/cloud/Desktop/Lab_9-Verilog/ALUTB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/ALUTB.v|
+!i113 1
+R5
+R6
+n@a@l@u@t@b
+vand18
+R1
+!i10b 1
+!s100 fF;]FgN><3SccgXJ2hm[l0
+I:UJ6kVQJP2:N6KL<fhia72
+R2
+R0
+Z9 w1649779568
+Z10 8/home/cloud/Desktop/Lab_9-Verilog/andornor.v
+Z11 F/home/cloud/Desktop/Lab_9-Verilog/andornor.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+!s108 1650386403.000000
+!s107 /home/cloud/Desktop/Q2.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Q2.v|
+!i113 1
+R5
+R6
+n@q2
+vtb_32PIPO
+R1
+!i10b 1
+!s100 H3;;W6M2@naleoS^XbI481
+IX<PV[TgQWZlIR0XJMR:gc1
+R2
+R0
+w1650386019
+8/home/cloud/Desktop/tb_32PIPO.v
+F/home/cloud/Desktop/tb_32PIPO.v
+=======
+R4
+Z12 !s107 /home/cloud/Desktop/Lab_9-Verilog/andornor.v|
+Z13 !s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/andornor.v|
+!i113 1
+R5
+R6
+vfulladder
+R1
+!i10b 1
+!s100 NNA_E]NSm;ZT01a`CS4NV1
+IbS2>j[EJB>]7Ec[XzFGlW3
+R2
+R0
+w1649698756
+8/home/cloud/Desktop/Lab_9-Verilog/fulladder.v
+F/home/cloud/Desktop/Lab_9-Verilog/fulladder.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+<<<<<<< HEAD
+!s107 /home/cloud/Desktop/tb_32PIPO.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/tb_32PIPO.v|
+!i113 1
+R5
+R6
+ntb_32@p@i@p@o
+vtb_DFF
+R7
+!i10b 1
+!s100 Sg8ch46`>6S;dj^?C`Q342
+ID:j_0nO:L]Z2a:^8?>A>L2
+R2
+R0
+w1650383640
+8/home/cloud/Desktop/tb_DFF.v
+F/home/cloud/Desktop/tb_DFF.v
+=======
+!s107 /home/cloud/Desktop/Lab_9-Verilog/fulladder.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/fulladder.v|
+!i113 1
+R5
+R6
+vfulladder_testbench
+!s110 1649698775
+!i10b 1
+!s100 M4``MSTcdG3OA:a<TgH`i3
+I>5Afh08>V31bm_UCAZV[L2
+R2
+R0
+w1649695598
+8/home/cloud/Desktop/Lab_9-Verilog/fulladderTB.v
+F/home/cloud/Desktop/Lab_9-Verilog/fulladderTB.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+R8
+!s107 /home/cloud/Desktop/tb_DFF.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/tb_DFF.v|
+!i113 1
+R5
+R6
+ntb_@d@f@f
+vtb_PIPO
+R9
+!i10b 1
+!s100 BziJZWRLR?7L1GWhEKRi?3
+I;b0oXKSn_g885B7mnQ6@X0
+R2
+R0
+w1650384292
+8/home/cloud/Desktop/tb_PIPO.v
+F/home/cloud/Desktop/tb_PIPO.v
+=======
+!s108 1649698775.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/fulladderTB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/fulladderTB.v|
+!i113 1
+R5
+R6
+vfunc_testbench
+!s110 1649698206
+!i10b 1
+!s100 VWQkAQ8cS6iNGkS38W6JL3
+IT2[fzPE7;QBMNh7gMa4;l0
+R2
+R0
+w1649698187
+8/home/cloud/Desktop/Lab_9-Verilog/andornor_TB.v
+F/home/cloud/Desktop/Lab_9-Verilog/andornor_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1649698206.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/andornor_TB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/andornor_TB.v|
+!i113 1
+R5
+R6
+vhalfAdder
+Z14 !s110 1649781205
+!i10b 1
+!s100 e]nBQbDgYe@TOn[ea`31P2
+I:>^HmgR1GVHI^`UTD?>]e1
+R2
+R0
+w1649692400
+8/home/cloud/Desktop/Lab_9-Verilog/halfadder.v
+F/home/cloud/Desktop/Lab_9-Verilog/halfadder.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+R10
+!s107 /home/cloud/Desktop/tb_PIPO.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/tb_PIPO.v|
+!i113 1
+R5
+R6
+ntb_@p@i@p@o
+vtb_Q2
+!s110 1650386495
+!i10b 1
+!s100 n`amJ:z2eJLHo6^j7C>W60
+IO85CFDedEM8TSUaC[P17=1
+R2
+R0
+w1650386483
+8/home/cloud/Desktop/Q2_TB.v
+F/home/cloud/Desktop/Q2_TB.v
+=======
+Z15 !s108 1649781205.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/halfadder.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/halfadder.v|
+!i113 1
+R5
+R6
+nhalf@adder
+vhalfadder_testbench
+R14
+!i10b 1
+!s100 Mc=ZFiDfg6SQolHY:iV0^2
+IWz8IlVfU2lj`>1EZC2SkY3
+R2
+R0
+w1649695265
+8/home/cloud/Desktop/Lab_9-Verilog/halfadderTB.v
+F/home/cloud/Desktop/Lab_9-Verilog/halfadderTB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 /home/cloud/Desktop/Lab_9-Verilog/halfadderTB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/halfadderTB.v|
+!i113 1
+R5
+R6
+vnor18
+R1
+!i10b 1
+!s100 F^?enPM^Wo05IK[D;Gao]1
+IC[aV;@dPoCI9iTTKBMiR^1
+R2
+R0
+R9
+R10
+R11
+L0 33
+R3
+r1
+!s85 0
+31
+R4
+R12
+R13
+!i113 1
+R5
+R6
+vor18
+R1
+!i10b 1
+!s100 Z<PgmkG9Q6jVgo_MNC1L^3
+IZRF2c^foIZfO3KCX7R=]@2
+R2
+R0
+R9
+R10
+R11
+L0 17
+R3
+r1
+!s85 0
+31
+R4
+R12
+R13
+!i113 1
+R5
+R6
+vrca
+R1
+!i10b 1
+!s100 2RgzSkI<D:hcUDeCc[;cb2
+IQ@0gg_D2NIa>JXo:`]T4?3
+R2
+R0
+w1649694479
+8/home/cloud/Desktop/Lab_9-Verilog/rca32bit.v
+F/home/cloud/Desktop/Lab_9-Verilog/rca32bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/cloud/Desktop/Lab_9-Verilog/rca32bit.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/rca32bit.v|
+!i113 1
+R5
+R6
+vrca_testbench
+!s110 1649698202
+!i10b 1
+!s100 <D]IziG;eza`ab:HGPC;S1
+IXm:PBeQY2m?A;8HR:7=Q82
+R2
+R0
+w1649696071
+8/home/cloud/Desktop/Lab_9-Verilog/rcaTB.v
+F/home/cloud/Desktop/Lab_9-Verilog/rcaTB.v
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
+L0 1
+R3
+r1
+!s85 0
+31
+<<<<<<< HEAD
+!s108 1650386495.000000
+!s107 /home/cloud/Desktop/Q2_TB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Q2_TB.v|
+!i113 1
+R5
+R6
+ntb_@q2
+=======
+!s108 1649698202.000000
+!s107 /home/cloud/Desktop/Lab_9-Verilog/rcaTB.v|
+!s90 -reportprogress|300|-work|work|/home/cloud/Desktop/Lab_9-Verilog/rcaTB.v|
+!i113 1
+R5
+R6
+>>>>>>> 91b669858b5ba0444a2acf998a41511a24199b10
